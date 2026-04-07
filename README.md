@@ -46,4 +46,4 @@ Formatted Output Display
 ![image alt](https://github.com/PrathmeshPatil99412/ai-weather-assistant/blob/main/input.png)
 
 ### Weather Analysis Output
-
+![image alt](https://github.com/PrathmeshPatil99412/ai-weather-assistant/blob/main/output.png)
