@@ -43,7 +43,7 @@ Formatted Output Display
 ## 🖥️ Screenshots
 
 ### Input Interface
-
+![image alt](https://github.com/PrathmeshPatil99412/ai-weather-assistant/blob/main/input.png)
 
 ### Weather Analysis Output
 
