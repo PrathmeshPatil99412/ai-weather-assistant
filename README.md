@@ -2,7 +2,7 @@
 
 AI-powered weather intelligence system that integrates real-time weather data with Gemini to generate structured insights, recommendations, and risk analysis using a rule-based validation layer and a clean Streamlit interface.
 
----
+
 
 ## Features
 
@@ -12,7 +12,7 @@ AI-powered weather intelligence system that integrates real-time weather data wi
 - Clean and minimal Streamlit-based UI  
 - Modular and scalable architecture  
 
----
+
 
 ## System Architecture
 
@@ -28,7 +28,7 @@ Gemini AI (gemini.py)
 ↓  
 Formatted Output Display  
 
----
+
 
 ## Tech Stack
 
@@ -38,21 +38,6 @@ Formatted Output Display
 - OpenWeather API  
 - Rule-based validation  
 
----
-
-## Project Structure
-weather-ai-assistant/
-│
-├── app.py # Main Streamlit application
-├── weather.py # OpenWeather API logic
-├── gemini.py # Gemini AI integration
-├── validator.py # Rule-based validation layer
-├── config.py # Environment configuration
-│
-├── requirements.txt
-├── .env # API keys (NOT uploaded)
-├── .gitignore
-└── README.md
 
 
 ## 🖥️ Screenshots
