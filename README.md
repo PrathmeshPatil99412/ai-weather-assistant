@@ -1,4 +1,4 @@
-![image alt](https://github.com/PrathmeshPatil99412/ai-weather-assistant/blob/main/banner.png)
+![image alt](https://github.com/PrathmeshPatil99412/ai-weather-assistant/blob/main/banner1.png)
 
 # AI Weather Intelligence System
 
